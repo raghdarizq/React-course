@@ -35,7 +35,6 @@ const App = () => {
   };
 
 
-
   return (
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
